@@ -52,6 +52,7 @@ const developer = {
     goal:
     "Building scalable and impactful software solutions 🚀"
 };
+```
 <div align="center">
 
 # ⚡ Tech Arsenal
@@ -162,8 +163,7 @@ Building:
   - Open Source Projects
   - Developer Tools
 
-  ---
-
+```
 <div align="center">
 
 # 🚀 Featured Projects
