@@ -87,7 +87,7 @@ const developer = {
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillics.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
 **Specialized In:**
