@@ -9,6 +9,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Software+Engineering+Student;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" />
 
 <br/>
+<br/>
+
+<img src="https://komarev.com/normal-badge/?username=FABIHALAM&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/>
+<br/>
 
 <a href="https://github.com/FABIHALAM">
 <img src="https://img.shields.io/badge/GitHub-FABIHALAM-0f172a?style=for-the-badge&logo=github"/>
@@ -328,15 +334,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABIHALAM&la
 
 <div align="center">
 
-# 🏆 Achievements
-
-</div>
+# 🏆 Achievements & Badges
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FABIHALAM&theme=algolia&no-frame=true&no-bg=true&column=4"/>
-
+  <img src="https://img.shields.io/badge/Expertise-MERN%20Stack-38bdf8?style=for-the-badge&logo=react&logoColor=38bdf8" alt="MERN Stack Developer" />
+  <img src="https://img.shields.io/badge/Education-BS%20Software%20Engineering-8b5cf6?style=for-the-badge&logo=academia" alt="BS Software Engineering" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-10b981?style=for-the-badge&logo=github" alt="Open Source Contributor" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Badge-Pull%20Shark-0ea5e9?style=flat-square&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/GitHub%20Badge-Quickdraw-22c55e?style=flat-square&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/GitHub%20Badge-YOLO-ef4444?style=flat-square&logo=github" alt="YOLO" />
+  <img src="https://img.shields.io/badge/GitHub%20Badge-Arctic%20Code%20Vault-475569?style=flat-square&logo=github" alt="Arctic Code Vault" />
+</p>
+
+</div>
 
 ---
 
