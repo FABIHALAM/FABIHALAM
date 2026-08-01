@@ -69,14 +69,7 @@ const developer = {
 ## 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/html5-%230b0f19.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
-  <img src="https://img.shields.io/badge/css3-%230b0f19.svg?style=for-the-badge&logo=css3&logoColor=%231572B6"/>
-  <img src="https://img.shields.io/badge/javascript-%230b0f19.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%230b0f19.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6"/>
-  <img src="https://img.shields.io/badge/react-%230b0f19.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next.js-%230b0f19.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwind-%230b0f19.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC"/>
-  <img src="https://img.shields.io/badge/vite-%230b0f19.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite"/>
 </p>
 
 **Specialized In:**
@@ -94,9 +87,7 @@ const developer = {
 ## ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/node.js-%230b0f19.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23339933"/>
-  <img src="https://img.shields.io/badge/express-%230b0f19.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%230b0f19.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
 **Specialized In:**
@@ -118,9 +109,7 @@ const developer = {
 ## 🗄️ Database
 
 <p>
-  <img src="https://img.shields.io/badge/mongodb-%230b0f19.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248"/>
-  <img src="https://img.shields.io/badge/mysql-%230b0f19.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1"/>
-  <img src="https://img.shields.io/badge/firebase-%230b0f19.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
 **Experience With:**
@@ -138,13 +127,7 @@ const developer = {
 ## 🛠️ Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/git-%230b0f19.svg?style=for-the-badge&logo=git&logoColor=%23F05032"/>
-  <img src="https://img.shields.io/badge/github-%230b0f19.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-%230b0f19.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC"/>
-  <img src="https://img.shields.io/badge/postman-%230b0f19.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37"/>
-  <img src="https://img.shields.io/badge/figma-%230b0f19.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E"/>
-  <img src="https://img.shields.io/badge/npm-%230b0f19.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837"/>
-  <img src="https://img.shields.io/badge/vercel-%230b0f19.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel"/>
 </p>
 
 **Workflow:**
